@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday - Google</string>
+    <string name="happy_birthday_text">Have a happy day!</string>
+    <string name="signature_text">a friend</string>
 </resources>
